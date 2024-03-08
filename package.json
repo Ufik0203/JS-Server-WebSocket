@@ -3,5 +3,23 @@
     "express": "^4.18.3",
     "mysql2": "^3.9.2",
     "ws": "^8.16.0"
-  }
+  },
+  "name": "js-server-websocket",
+  "description": "This code will create a server on websocket program with JavaScript ## References",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ufik0203/JS-Server-WebSocket.git"
+  },
+  "author": "ufik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ufik0203/JS-Server-WebSocket/issues"
+  },
+  "homepage": "https://github.com/Ufik0203/JS-Server-WebSocket#readme"
 }
