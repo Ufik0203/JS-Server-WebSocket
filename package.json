@@ -7,7 +7,7 @@
   },
   "name": "js-server-websocket",
   "description": "This code will create a server on websocket program with JavaScript ## References",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
